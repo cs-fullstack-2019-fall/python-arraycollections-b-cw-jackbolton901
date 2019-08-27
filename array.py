@@ -28,7 +28,8 @@ def problem5():
             loCount = loCount + 1
         else:
             eqCount = eqCount + 1
-        print(hiCount)
+        # !! : you are printing for every iteration AND you should have some string formatting to say what each print line is for f'{hiCount} numbers are higher than {userNum}'    
+        print(hiCount) 
         print(loCount)
         print(eqCount)
 
@@ -39,5 +40,5 @@ main()
 # problem 4
 theArray = [11, 13, 23, 24, 50]
 for x in theArray:
-    theArray.reverse()
+    theArray.reverse() # !! : DO NOT USE A FUNCTION
 print(theArray)
