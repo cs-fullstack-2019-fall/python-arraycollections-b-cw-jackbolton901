@@ -17,7 +17,7 @@ d) Print the 3rd element.
 ##### We will keep having this problem until EVERYONE gets it right without help
 Create a function that has a loop that quits with ‘q’. If the user doesn't enter 'q', ask them to input another string.
 
-### Problem 3:
+SKIPPING ### Problem 3:
 Create a function that contains a collection of information for the following. After you create the collection do the instructions below that.
 ```
 Jonathan/John
